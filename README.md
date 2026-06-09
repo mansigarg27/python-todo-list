@@ -13,5 +13,6 @@ Menu-driven To-Do List application built in Python to add and manage tasks using
 - while loops
 - Conditional Statements
 
-## Sample Output
-See output.png for the program output.
+## Output
+![Program Output](output.png)
+
